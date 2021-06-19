@@ -103,7 +103,7 @@
 
 	/* Main Content - Start */
 	.mainContent {
-		width: 90%;
+		width: 95%;
 		margin: auto;
 		padding: 20px;
 	}
