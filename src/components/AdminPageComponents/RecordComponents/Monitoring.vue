@@ -167,7 +167,7 @@
 	.mainContent {
 		width: 100%;
 		margin: 0px auto;
-		padding: 0px 20px;
+		padding: 0px 10px;
 	}
 
 	.staffs {
