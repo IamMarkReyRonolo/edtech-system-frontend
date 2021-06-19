@@ -26,7 +26,7 @@
 							<v-chip class="primary">
 								{{ record.record_status }}
 							</v-chip>
-							<h2>{{ record.record_time }}</h2>
+							<h2 class="time">{{ record.record_time }}</h2>
 							<div class="chips">
 								<p>Borrowed Equipments:</p>
 								<v-chip
@@ -200,6 +200,10 @@
 	.rightContent h2 {
 		font-weight: normal;
 		font-size: 18px;
+	}
+
+	.rightContent .time {
+		font-size: 14px;
 	}
 	.staff .leftContent {
 		display: flex;
